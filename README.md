@@ -13,21 +13,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joe-lz&show_icons=true&include_all_commits=true) -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joe-lz&show_icons=true&include_all_commits=true)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-lz)](https://github.com/joe-lz) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-lz)](https://github.com/joe-lz)
-<!-- [![Stargazers over time](https://starchart.cc/joe-lz/oh-my-blog.svg)](https://starchart.cc/joe-lz/) -->
+<!-- <img align="right" alt="ouuan's github stats" width='50%' src="https://github-readme-stats.vercel.app/api?username=joe-lz&show_icons=true&include_all_commits=true"> -->
+<img align="right" alt="ouuan's github stats" width='40%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-lz">
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joe-lz&show_icons=true&include_all_commits=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-lz" />
-</p> -->
+```javascript
+const Joe = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Dart, Swift],
+  tools: [React, Flutter, React Native, Storybook, Styled-Components],
+ challenge: ""
+}
+```
 
-## 开源项目
-### oh-my-blog 
+## Projects
+### oh-my-blog
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=oh-my-blog&theme=shades-of-purple)](https://github.com/joe-lz/oh-my-blog)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=ombTheme-simple-www&theme=default_repocard)](https://github.com/joe-lz/ombTheme-simple-www)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=ombTheme-white-www&theme=default_repocard)](https://github.com/joe-lz/ombTheme-white-www)
@@ -37,6 +40,6 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=TodoKit&theme=shades-of-purple)](https://github.com/joe-lz/TodoKit)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=TodoKit-api&theme=default_repocard)](https://github.com/joe-lz/TodoKit-api)
 
-### 其他
+### And...
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=jser.blog)](https://github.com/joe-lz/jser.blog)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=blog)](https://github.com/joe-lz/blog)
