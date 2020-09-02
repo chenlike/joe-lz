@@ -28,15 +28,14 @@ Here are some ideas to get you started:
 
 ## Projects
 ### oh-my-blog 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=oh-my-blog)](https://github.com/joe-lz/oh-my-blog)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=ombTheme-simple-www)](https://github.com/joe-lz/ombTheme-simple-www)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=ombTheme-white-www&theme=dark)](https://github.com/joe-lz/ombTheme-white-www)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=ombTheme-white-admin&theme=dark)](https://github.com/joe-lz/ombTheme-white-admin)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=oh-my-blog&theme=material-palenight)](https://github.com/joe-lz/oh-my-blog)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=ombTheme-simple-www&theme=default_repocard)](https://github.com/joe-lz/ombTheme-simple-www)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=ombTheme-white-www&theme=default_repocard)](https://github.com/joe-lz/ombTheme-white-www)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=ombTheme-white-admin&theme=default_repocard)](https://github.com/joe-lz/ombTheme-white-admin)
 
 ### TodoKit
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=TodoKit)](https://github.com/joe-lz/TodoKit)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=TodoKit-api&theme=dark)](https://github.com/joe-lz/TodoKit-api)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=TodoKit&theme=material-palenight)](https://github.com/joe-lz/TodoKit)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=TodoKit-api&theme=default_repocard)](https://github.com/joe-lz/TodoKit-api)
 
 ### 其他
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=jser.blog)](https://github.com/joe-lz/jser.blog)
