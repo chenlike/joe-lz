@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-lz" />
 </p> -->
 
-## Projects
+## 开源项目
 ### oh-my-blog 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=oh-my-blog&theme=material-palenight)](https://github.com/joe-lz/oh-my-blog)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-lz&repo=ombTheme-simple-www&theme=default_repocard)](https://github.com/joe-lz/ombTheme-simple-www)
