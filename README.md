@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joe-lz&show_icons=true&include_all_commits=true) -->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joe-lz&show_icons=true&include_all_commits=true)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-lz)](https://github.com/joe-lz) -->
 
 <!-- <img align="right" alt="ouuan's github stats" width='50%' src="https://github-readme-stats.vercel.app/api?username=joe-lz&show_icons=true&include_all_commits=true"> -->
-<img align="right" alt="ouuan's github stats" width='40%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-lz">
+<img align="right" alt="ouuan's github stats" width='30%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-lz">
 
 ```javascript
 const Joe = {
@@ -26,6 +26,10 @@ const Joe = {
   code: [Javascript, Typescript, HTML, CSS, Dart, Swift],
   tools: [React, Flutter, React Native, Storybook, Styled-Components],
  challenge: ""
+
+
+
+
 }
 ```
 
