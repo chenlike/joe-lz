@@ -33,8 +33,8 @@ const Joe = {
   challenge: ""
 }
 ```
-<img alt="ouuan's github stats" height='215' src="https://github-readme-stats.vercel.app/api?username=joe-lz&show_icons=true&include_all_commits=true">
-<img alt="ouuan's github stats" height='215' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-lz">
+<img alt="ouuan's github stats" height='210' src="https://github-readme-stats.vercel.app/api?username=joe-lz&show_icons=true&include_all_commits=true">
+<img alt="ouuan's github stats" height='210' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-lz">
 
 ## Projects
 ### oh-my-blog
