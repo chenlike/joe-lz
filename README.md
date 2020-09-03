@@ -23,14 +23,17 @@ Here are some ideas to get you started:
 ```javascript
 const Joe = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Dart, Swift],
+  code: [Javascript, Typescript, HTML, CSS],
   tools: [
-    React, Flutter, React Native, VueJS,
-    expressjs,
+    React, React Native, VueJS,
+    Expressjs,
     Storybook, Styled-Components,
-    Leancloud, cloudbase, firebase, qiniu,
+    Leancloud, Cloudbase, Firebase, Qiniu,
   ],
-  challenge: ""
+  learning: [
+    Flutter, Swift,
+  ],
+  contact: "Jeodiong@hotmail.com",
 }
 ```
 <p align="left">
